@@ -1,3 +1,3 @@
-public class GitClassAddingByOption {
+public class GitClass {
 
 }
